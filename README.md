@@ -38,15 +38,15 @@
 
 * Performance Metrics
 
-Model   	          Accuracy	ROC AUC 	F1 Score	Precision	Recall
+Model   	          |Accuracy	ROC AUC 	F1 Score	Precision	Recall
 
-XGBoost	            85%	      0.85	    0.75	     0.72	    0.78
+XGBoost	            |85%	    |0.85	    |0.75	    |0.72	    |0.78
 
-Random Forest	      82%	      0.82	    0.72	     0.70	    0.75
+Random Forest	      |82%	    |0.82	    |0.72	    |0.70	    |0.75
 
-Logistic Regression	83%	      0.80	    0.70	     0.68     0.73
+Logistic Regression	|83%	    |0.80	    |0.70	    |0.68     |0.73
 
-SVM                 70%       0.84      0.66       0.64     0.70
+SVM                 |70%      |0.84     |0.66     |0.64     |0.70
 
 
 * Key Findings
