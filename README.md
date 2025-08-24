@@ -52,7 +52,7 @@ Running the Streamlit App Locally
 
 **Clone the repository:**
 bash
-git clone https://github.com/yourusername/diabetes-risk-predictor.git
+git clone https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost
 cd diabetes-risk-predictor
 
 **Install dependencies:**
