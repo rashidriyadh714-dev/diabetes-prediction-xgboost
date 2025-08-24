@@ -67,7 +67,7 @@ Access the app at http://localhost:8501
 Online Deployment
 
 The application is deployed on Streamlit Community Cloud and accessible at:
-Diabetes Risk Predictor App ( https://rashid-diabetes-prediction-random-forest.streamlit.app )
+Diabetes Risk Predictor App ( https://rashid-diabetes-prediction-xgboost.streamlit.app )
 
 Application Features
 
