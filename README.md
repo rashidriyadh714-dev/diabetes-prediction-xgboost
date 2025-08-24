@@ -1,19 +1,19 @@
 ***<h1>Diabetes Risk Predictor</h1>***
 
 
-**Executive Summary**
+**<h2>Executive Summary</h2>**
 
 * This project develops a machine learning-based web application that predicts an individual's risk of developing diabetes based on key health parameters. The application utilizes the XGBoost algorithm trained on medical data to provide risk assessments with 85% accuracy. The solution features a bilingual interface (English/Malay), interactive visualizations, and personalized prevention recommendations, making it accessible to diverse users in Malaysia's healthcare context.
 
-**Problem Statement**
+**<h2>Problem Statement</h2>**
 
 * Diabetes is a growing health concern in Malaysia, with an estimated 3.9 million adults living with the condition. Early detection and prevention are crucial for managing diabetes, but many individuals lack access to convenient risk assessment tools. This project addresses this gap by providing an accessible, AI-powered tool that helps users understand their diabetes risk based on measurable health indicators, encouraging proactive health management.
 
-**Dataset Source**
+**<h2>Dataset Source</h2>**
 
 * The model was trained on the Pima Indians Diabetes Database ( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database )from the National Institute of Diabetes and Digestive and Kidney Diseases, supplemented with Malaysia-specific health data from the World Bank Open Data repository.
 
-**Methodology**
+**<h2>Methodology</h2>**
 
 * Data Pipeline
 
@@ -56,7 +56,7 @@ The model achieved 85% AUC-ROC, indicating strong discriminatory power.
 
 Feature importance analysis aligned with clinical understanding of diabetes risk factors.
 
-**Demonstration**
+**<h2>Demonstration**
 
 Running the Streamlit App Locally
 
@@ -103,7 +103,7 @@ Model Transparency: Performance metrics and feature importance display
 <img width="1470" height="832" alt="Screenshot 2025-08-24 at 2 54 46 PM" src="https://github.com/user-attachments/assets/babd3f23-489f-47fe-bf21-56fc68caf35c" />
 
 
-**Acknowledgement**
+**<h2>Acknowledgement</h2>**
 
 * This project was developed as part of the BIT4333 Introduction to Machine Learning course at City University Malaysia. Special thanks to:  **Sir Nazmirul Izzad Bin Nassir for project guidance and supervision**
 
