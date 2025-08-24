@@ -1,21 +1,21 @@
 ***Diabetes Risk Predictor***
 
 
-**Executive Summary**
+<ol>**Executive Summary**
 <li>
 <ul>This project develops a machine learning-based web application that predicts an individual's risk of developing diabetes based on key health parameters. The application utilizes the XGBoost algorithm trained on medical data to provide risk assessments with 85% accuracy. The solution features a bilingual interface (English/Malay), interactive visualizations, and personalized prevention recommendations, making it accessible to diverse users in Malaysia's healthcare context.
 
-**Problem Statement**
+<ol>**Problem Statement**
 
-Diabetes is a growing health concern in Malaysia, with an estimated 3.9 million adults living with the condition. Early detection and prevention are crucial for managing diabetes, but many individuals lack access to convenient risk assessment tools. This project addresses this gap by providing an accessible, AI-powered tool that helps users understand their diabetes risk based on measurable health indicators, encouraging proactive health management.
+<ul> Diabetes is a growing health concern in Malaysia, with an estimated 3.9 million adults living with the condition. Early detection and prevention are crucial for managing diabetes, but many individuals lack access to convenient risk assessment tools. This project addresses this gap by providing an accessible, AI-powered tool that helps users understand their diabetes risk based on measurable health indicators, encouraging proactive health management.
 
 **Dataset Source**
 
-The model was trained on the Pima Indians Diabetes Database ( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database )from the National Institute of Diabetes and Digestive and Kidney Diseases, supplemented with Malaysia-specific health data from the World Bank Open Data repository.
+<ul> The model was trained on the Pima Indians Diabetes Database ( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database )from the National Institute of Diabetes and Digestive and Kidney Diseases, supplemented with Malaysia-specific health data from the World Bank Open Data repository.
 
 **Methodology**
 
-Data Pipeline
+<ul>Data Pipeline
 
 **Data Collection**: Combined international diabetes data with Malaysia-specific health indicators
 **Preprocessing**: Handled missing values, normalized features, and addressed class imbalance
