@@ -1,4 +1,4 @@
-***Diabetes Risk Predictor***
+***<h1>Diabetes Risk Predictor</h1>***
 
 
 **Executive Summary**
