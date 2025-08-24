@@ -72,23 +72,32 @@ Diabetes Risk Predictor App ( https://rashid-diabetes-prediction-random-forest.s
 Application Features
 
 Bilingual Interface: Toggle between English and Malay
+
 Interactive Inputs: Sliders for health parameters with clinical ranges
+
 Visual Risk Assessment: Color-coded risk visualization (green to red gradient)
+
 Personalized Recommendations: Prevention tips based on risk level
+
 Model Transparency: Performance metrics and feature importance display
 
 Screenshots
 
 <img width="1470" height="832" alt="Screenshot 2025-08-24 at 2 54 46 PM" src="https://github.com/user-attachments/assets/babd3f23-489f-47fe-bf21-56fc68caf35c" />
 
+
 **Acknowledgement**
 
 This project was developed as part of the BIT4333 Introduction to Machine Learning course at City University Malaysia. Special thanks to:
 
 Sir Nazmirul Izzad Bin Nassir for project guidance and supervision
+
 Kaggle and the National Institute of Diabetes and Digestive and Kidney Diseases for providing the dataset
+
 Streamlit team for the excellent deployment platform
+
 XGBoost developers for the powerful machine learning library
+
 The open-source community for various Python libraries that made this project possible
 
 
