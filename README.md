@@ -38,36 +38,14 @@
 
 * Performance Metrics
 
-Model
-Accuracy
-ROC AUC
-F1 Score
-Precision
-Recall
-XGBoost
-85%
-0.85
-0.75
-0.72
-0.78
-Random Forest
-82%
-0.82
-0.72
-0.70
-0.75
-Logistic Regression
-83%
-0.80
-0.70
-0.68
-0.73
-SVM
-70%
-0.84
-0.66
-0.64
-0.70
+| Model               | Accuracy | ROC AUC | F1 Score | Precision |  Recall |
+| ------------------- | :------: | :-----: | :------: | :-------: | :-----: |
+| XGBoost             |  81.00%  |  0.830  |   0.750  |   0.730   |  0.720  |
+| Random Forest       |  76.00%  |  0.820  |   0.720  |   0.700   |  0.750  |
+| Logistic Regression |  74.00%  |  0.800  |   0.700  |   0.680   |  0.730  |
+| SVM                 |  79.75%  |  0.667  |   0.850  |  0.830\*  | 0.871\* |
+
+
 
 
 * Key Findings
