@@ -105,9 +105,7 @@ Model Transparency: Performance metrics and feature importance display
 
 **Acknowledgement**
 
-* This project was developed as part of the BIT4333 Introduction to Machine Learning course at City University Malaysia. Special thanks to:
-
-**Sir Nazmirul Izzad Bin Nassir for project guidance and supervision**
+* This project was developed as part of the BIT4333 Introduction to Machine Learning course at City University Malaysia. Special thanks to:  **Sir Nazmirul Izzad Bin Nassir for project guidance and supervision**
 
 Kaggle and the National Institute of Diabetes and Digestive and Kidney Diseases for providing the dataset
 
