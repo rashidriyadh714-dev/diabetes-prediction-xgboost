@@ -56,7 +56,7 @@ The model achieved 85% AUC-ROC, indicating strong discriminatory power.
 
 Feature importance analysis aligned with clinical understanding of diabetes risk factors.
 
-**<h2>Demonstration**
+**<h2>Demonstration</h2>**
 
 Running the Streamlit App Locally
 
