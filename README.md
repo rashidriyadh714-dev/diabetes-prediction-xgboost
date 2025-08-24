@@ -25,8 +25,11 @@ Data Pipeline
 Model Architecture
 
 **Primary Algorithm**: XGBoost (Extreme Gradient Boosting)
+
 **Baseline Model**: Logistic Regression for comparison
+
 **Evaluation Metrics**: AUC-ROC (0.85), Accuracy (81.0%), F1-Score (0.730)
+
 **Interpretability**: SHAP values for feature importance explanation
 
 **Results**
@@ -34,17 +37,23 @@ Model Architecture
 Performance Metrics
 
 Model   	          Accuracy	ROC AUC 	F1 Score	Precision	Recall
+
 XGBoost	            85%	      0.85	    0.75	     0.72	    0.78
+
 Random Forest	      82%	      0.82	    0.72	     0.70	    0.75
+
 Logistic Regression	83%	      0.80	    0.70	     0.68     0.73
+
 SVM                 70%       0.84      0.66       0.64     0.70
 
 
 Key Findings
 
-Glucose levels and BMI were the most significant predictors of diabetes risk
-The model achieved 85% AUC-ROC, indicating strong discriminatory power
-Feature importance analysis aligned with clinical understanding of diabetes risk factors
+Glucose levels and BMI were the most significant predictors of diabetes risk.
+
+The model achieved 85% AUC-ROC, indicating strong discriminatory power.
+
+Feature importance analysis aligned with clinical understanding of diabetes risk factors.
 
 **Demonstration**
 
@@ -73,6 +82,7 @@ Access the app at http://localhost:8501
 Online Deployment
 
 The application is deployed on Streamlit Community Cloud and accessible at:
+
 Diabetes Risk Predictor App ( https://rashid-diabetes-prediction-xgboost.streamlit.app )
 
 Application Features
